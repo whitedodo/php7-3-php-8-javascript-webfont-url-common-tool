@@ -1,0 +1,48 @@
+
+    body{
+      font-family:'Nanum Gothic';
+      background-color:#e2e2e2;
+    }
+    
+    
+    .usr_font_12{
+      font-size: 12px;
+    
+    }
+
+    table.type01 {
+      background-color:#fff;
+      border-collapse: collapse;
+      text-align: left;
+      line-height: 1.5;
+      width:98%;
+      margin : 20px 10px;
+    }
+
+    table.type01 th {
+      width: 150px;
+      padding: 10px;
+      font-weight: bold;
+      vertical-align: top;
+      border: 1px solid #ccc;
+    }
+
+    table.type01 td {
+      padding: 10px;
+      vertical-align: top;
+      border: 1px solid #ccc;
+    }
+
+    a:link { 
+	color: red; 
+	text-decoration: none;
+    }
+    a:visited { 
+	color: black; 
+	text-decoration: none;
+    }
+    a:hover { 
+	color: blue; 
+	text-decoration: 
+	underline;
+    }
